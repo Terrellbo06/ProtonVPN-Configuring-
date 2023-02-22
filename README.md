@@ -1,4 +1,4 @@
-# ProtonVPN-Configuring-
+# ProtonVPN-Configuring
 <p align="center">
 <img src="https://imgur.com/pnTqPk3.png" alt="Traffic Examination"/>
 </p>
