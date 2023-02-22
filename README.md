@@ -1,6 +1,6 @@
 # ProtonVPN-Configuring-
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="https://imgur.com/pnTqPk3.png" alt="Traffic Examination"/>
 </p>
 
 <h1>Configuring and using Virtual Private Network within ProtonVPN</h1>
