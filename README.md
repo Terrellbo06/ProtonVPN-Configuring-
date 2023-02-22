@@ -39,7 +39,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/PWXF8wG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 2.
@@ -47,9 +47,65 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ml3U26k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 3.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/C69if4M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+4.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/3gJgopO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+5.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/SauK2lU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+6.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/0Z9kVJc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+7.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/CHzFQi8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+8.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/h1eWeE0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+9.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/gY00JT6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+10.
 </p>
 <br />
